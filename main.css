@@ -1,0 +1,24 @@
+@font-face {
+	font-family: Titles;
+	src: url(/Font/NanumGothic-ExtraBold.ttf);
+}
+@font-face {
+	font-family: text;
+	src: url(/Font/NanumGothic-Regular.ttf);
+}
+
+.title {
+	font-family: Titles;
+	text-align: center;
+	font-size: 2.4vw;
+}
+
+.normaltext {
+	font-family: text;
+	font-size: 0.7vw;
+}
+
+.subtitles {
+	font-family: Titles;
+	font-size: 1vw;
+}
